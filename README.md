@@ -38,7 +38,7 @@ pip install pygame
 - Run the Python Script
 - Open your terminal or command prompt, navigate to the folder containing the Python files, and run:
 ```bash
-python interactive_story.py
+python add-user-interaction.py
 ```
 
 ## Project Contents
